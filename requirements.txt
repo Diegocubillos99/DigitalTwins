@@ -4,4 +4,4 @@ gunicorn
 plotly
 dash_bootstrap_components	
 matplot
-math
+
